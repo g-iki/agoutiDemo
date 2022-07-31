@@ -4,6 +4,11 @@ package structure
 type Setting struct {
 	Headless bool   `json:"headless"`
 	LoginURL string `json:"loginURL"`
+	Password string `json:"password"`
+	Users    []User `json:"users"`
+}
+
+type User struct {
 	UserID   string `json:"userID"`
 	Password string `json:"password"`
 }

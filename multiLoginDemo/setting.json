@@ -1,0 +1,23 @@
+{
+	"headless": false,
+	"loginURL": "https://hotel.testplanisphere.dev/ja/login.html",
+	"users": [
+		{
+			"userID": "ichiro@example.com",
+			"password": "password"
+		},
+		{
+			"userID": "sakura@example.com",
+			"password": "pass1234"
+		},
+		{
+			"userID": "jun@example.com",
+			"password": "pa55w0rd!"
+		},
+		{
+			"userID": "yoshiki@example.com",
+			"password": "pass-pass"
+		}
+	]
+
+}
