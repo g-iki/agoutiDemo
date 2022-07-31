@@ -1,0 +1,6 @@
+{
+	"headless": false,
+	"loginURL": "https://hotel.testplanisphere.dev/ja/login.html",
+	"userID": "ichiro@example.com",
+	"password": "password"
+}
