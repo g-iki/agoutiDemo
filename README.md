@@ -1,7 +1,7 @@
 # agoutiDemo
 
 
-## roginDemo
+## loginDemo
 
 - ブラウザを一つ開いてログイン処理を行います
 
